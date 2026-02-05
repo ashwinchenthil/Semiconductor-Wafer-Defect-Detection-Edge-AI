@@ -1,2 +1,6 @@
-# Semiconductor-Wafer-Defect-Detection-Edge-AI
-End-to-end Edge-AI solution for semiconductor wafer defect detection, spanning CNN model development and evaluation (Phase-1) to embedded edge deployment using ONNX for real-time industrial inspection (Phase-2).
+# Semiconductor Wafer Defect Detection using Edge AI
+
+This repository contains Phase-1 work of an Edge-AI based semiconductor wafer defect detection system developed for the IESA DeepTech Hackathon.
+
+Phase-1 focuses on CNN model development, evaluation, and ONNX export.  
+Phase-2 will cover embedded edge deployment.
