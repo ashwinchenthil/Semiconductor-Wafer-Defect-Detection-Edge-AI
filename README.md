@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/arbazkhan971/semiconductor-wafer-defect-dataset
 
 ## Model (ONNX)
 Download trained ONNX model here:  
-PASTE_YOUR_DRIVE_LINK_HERE
+https://drive.google.com/file/d/16wxHgHEHVLW1rJPdUaGUjo74Q45hbrFz/view?usp=drive_link
 
 ## Code Structure
 Phase_1/
@@ -39,6 +39,3 @@ Model size: 63.7 MB
 ## Hardware/Platform
 Trained on local CPU system using TensorFlow/Keras.  
 ONNX exported for edge deployment on embedded AI hardware.
-
-## ONNX Link Drive
-https://drive.google.com/file/d/16wxHgHEHVLW1rJPdUaGUjo74Q45hbrFz/view?usp=drive_link
