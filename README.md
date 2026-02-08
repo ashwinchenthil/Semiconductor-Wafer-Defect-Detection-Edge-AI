@@ -42,7 +42,3 @@ ONNX exported for edge deployment on embedded AI hardware.
 
 ## ONNX Link Drive
 https://drive.google.com/file/d/16wxHgHEHVLW1rJPdUaGUjo74Q45hbrFz/view?usp=drive_link
-
-## Dataset Links
-https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map
-https://www.kaggle.com/datasets/arbazkhan971/semiconductor-wafer-defect-dataset
